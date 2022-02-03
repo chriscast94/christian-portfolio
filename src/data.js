@@ -13,7 +13,7 @@ export const projects = [
         title: "Today I Learned",
         subtitle: "Full Stack",
         description: "Develop new skills in this convinient app.",
-        image: "../resources/project-1-hero",
+        image: "../resources/project-1-hero.JPG",
         link: "https://chriscast94.github.io/mack-project-skills/"
     },
 
@@ -22,7 +22,7 @@ export const projects = [
         title: "Password Generator",
         subtitle: "Javascript",
         description: "Can't think of a password? We got you covered.",
-        image: "../resources/pass-gen-hero",
+        image: "../resources/pass-gen-hero.JPG",
         link: "https://chriscast94.github.io/HW03-Password-Generator/"
     },
 ]

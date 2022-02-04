@@ -1,4 +1,3 @@
-// import { CodeIcon } from "@heroicons/react/solid";
 import React from "react";
 import { projects } from "../data";
 
@@ -12,7 +11,7 @@ export default function Projects() {
                         Apps I've Built
                     </h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                        Example Text
+                        Check out some of the work I've done.
                     </p>
                 </div>
                 <div className="flex flex-wrap -m-4">

@@ -1,10 +1,11 @@
+
 export const projects = [
     //project 1
     {
         title: "Daily Scheduler",
         subtitle: "Javascript",
         description: "Plan your day ahead with this convinient tool.",
-        image: "../resources/schedule-hero.JPG",
+        image: "./schedule-hero.png",
         link: "https://chriscast94.github.io/hw05-scheduler/"
     },
 
@@ -13,7 +14,7 @@ export const projects = [
         title: "Today I Learned",
         subtitle: "Full Stack",
         description: "Develop new skills in this convinient app.",
-        image: "../resources/project-1-hero.JPG",
+        image: "./project-hero.png",
         link: "https://chriscast94.github.io/mack-project-skills/"
     },
 
@@ -22,7 +23,7 @@ export const projects = [
         title: "Password Generator",
         subtitle: "Javascript",
         description: "Can't think of a password? We got you covered.",
-        image: "../resources/pass-gen-hero.JPG",
+        image: "./pass-gen-hero.png",
         link: "https://chriscast94.github.io/HW03-Password-Generator/"
     },
 ]

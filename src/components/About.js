@@ -20,7 +20,7 @@ export default function About() {
                 </div>
                 <div className="lg:max-lg lg:w-full md: w-1/2 w5/6">
                     {/* hero image */}
-                    <img className="object-cover object-center rounded" alt="hero" src=".../resources/hero.JPG" />
+                    <img className="object-cover object-center rounded" alt="hero" src="../hero.png" />
                 </div>
             </div>
 

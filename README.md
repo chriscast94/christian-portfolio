@@ -1,7 +1,7 @@
 ## christian-portfolio
 ## Description
 This repo is representative of the code used to create my portfolio. It uses React, Tailwind CSS, and Node.
-Portfolio: https://dashboard.heroku.com/apps/lit-beach-29501/settings
+Portfolio: https://lit-beach-29501.herokuapp.com/
 
 ## Installation
 Open Github and GitBash

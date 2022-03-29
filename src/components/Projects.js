@@ -35,6 +35,11 @@ export default function Projects() {
                                     </h1>
                                     <p className="leading-relaxed">{project.description}</p>
                                 </div>
+                                <div className="flex relative">
+                                    <a href={project.github}>
+                                        <button className="bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded-l">Github Link</button>
+                                    </a>
+                                </div>
                             </div>
                         </a>
                     ))}

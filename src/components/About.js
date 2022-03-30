@@ -4,10 +4,11 @@ export default function About() {
             <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
                 <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
                     <h1 className="title-font sm:text-4xl text 3xl mb-4 font-medium text-white">
-                        Salutations! I'm Christian Castillo, a writer, editor, and full-stack developer.
-                        <br className="hidden lg:inline-block" /> Let's create something together.
+                        Salutations!
                     </h1>
                     <p className="mb-8 leading-relaxed">
+                        I'm Christian Castillo, a writer, editor, and full-stack developer.
+                        <br className="hidden lg:inline-block" /> Let's create something together.
                         Check out my portfolio!
                         If there's anything you'd like, and you want to know more, please let me know!
                     </p>
@@ -20,7 +21,7 @@ export default function About() {
                 </div>
                 <div className="lg:max-lg lg:w-fit md: w-1/2 w5/6">
                     {/* hero image */}
-                    <img className="object-cover object-center rounded" alt="hero" src="../hero.png" />
+                    <img className="object-scale-down object-center rounded" alt="hero" src="../hero.png" />
                 </div>
             </div>
 

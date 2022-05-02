@@ -27,6 +27,6 @@ export const projects = [
         description: "Can't think of a password? We got you covered.",
         image: "./pass-gen-hero.png",
         link: "https://chriscast94.github.io/HW03-Password-Generator/",
-        github: "https://github.com/chriscast94/password-generator"
+        github: "https://chriscast94.github.io/password-generator/"
     },
 ]
